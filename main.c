@@ -5,9 +5,9 @@ int main()
 {
     printf("oie");
     tempo();
-    ulong tempoo;
+    ulong tempoPassado;
     printf("Quanto tempo sera que demora pra dar um printf?");
-    tempoo = tempo();
+    tempoPassado = tempo();
     printf("\nLevou %uus (%s)\n", tempo, formata(tempo));
     
 }
