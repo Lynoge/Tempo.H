@@ -6,7 +6,7 @@ Biblioteca Tempo.H, criado pelo professor Elgio Schlemer e seus alunos.
 
 Essa biblioteca tem o intuito de ser um cronometro dentro de codigos C ANSI.
 
-#Como usar?
+#h2 Como usar?
 
 
 #Primeiro passo
